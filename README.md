@@ -1,4 +1,4 @@
-#SymetricCrypter
+# SymetricCrypter
 
 SymetricCrypter is an encryption library using [Vernam's argorithm] (https://en.wikipedia.org/wiki/One-time_pad)
 It is a simplified version of an algorithm that does not take into account certain restrictions.
